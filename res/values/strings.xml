@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WREK</string>
+    <string name="stream_prompt">Choose a Stream to Listen To</string>
+    <string-array name="stream_array">
+        <item>wrek_live-128kb</item>
+        <item>wrek_HD-2</item>
+        <item>wrek_live-24kb-mono</item>
+    </string-array>
+</resources>
